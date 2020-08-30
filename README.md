@@ -9,7 +9,7 @@ cd ea
 
 mvn clean package
 
-java -jar target/target/Festival-0.0.1-SNAPSHOT.jar
+java -jar target/Festival-0.0.1-SNAPSHOT.jar
 
 
 ## Results
